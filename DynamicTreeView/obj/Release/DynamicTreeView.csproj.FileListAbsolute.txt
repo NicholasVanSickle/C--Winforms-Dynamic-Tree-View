@@ -1,5 +1,0 @@
-E:\DynamicTreeView\DynamicTreeView\bin\Release\DynamicTreeView.dll
-E:\DynamicTreeView\DynamicTreeView\bin\Release\DynamicTreeView.pdb
-E:\DynamicTreeView\DynamicTreeView\obj\Release\ResolveAssemblyReference.cache
-E:\DynamicTreeView\DynamicTreeView\obj\Release\DynamicTreeView.dll
-E:\DynamicTreeView\DynamicTreeView\obj\Release\DynamicTreeView.pdb
