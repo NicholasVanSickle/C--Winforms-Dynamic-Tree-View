@@ -1,0 +1,7 @@
+DynamicTreeView builds to the DynamicTreeView library, and DynamicTreeViewExample offers a simple demo
+
+A DynamicTreeView consists of a collection of DynamicTreeViewNodes, 
+which optionally can be forcibly parented to a root node (useful 
+for tying data to the underyling model).
+
+See IDynamicTreeNodeDataProxy for more configurable individual node behavior.
